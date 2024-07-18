@@ -6,6 +6,14 @@ export default {
       colors: {
         customColor: "#f3eae3",
       },
+      spacing: {
+        600: "600px",
+        450: "450px",
+      },
+      fontFamily: {
+        sans: ['"Montserrat", sans-serif'],
+        fraunces: ["Fraunces"],
+      },
     },
   },
   plugins: [],

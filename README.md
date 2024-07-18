@@ -1,6 +1,3 @@
-**Descrizione:**
-starting with three.js
-
 # Front-end Style Guide
 
 ## Layout
