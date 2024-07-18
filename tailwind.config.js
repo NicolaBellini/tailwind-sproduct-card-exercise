@@ -5,6 +5,7 @@ export default {
     extend: {
       colors: {
         customColor: "#f3eae3",
+        darkCyan: "#377d6a",
       },
       spacing: {
         600: "600px",
